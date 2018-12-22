@@ -1,0 +1,6 @@
+export profile="demo"
+export region="us-east-2"
+export aws_account_id="769203428018"
+export template="lambda-dynamo-data-api"
+export bucket="testbucket121fadil"
+export prefix="tmp/sam"
